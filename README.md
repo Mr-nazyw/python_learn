@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Mr-nazyw/python_learn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用 [editor on GitHub](https://github.com/Mr-nazyw/python_learn/edit/master/README.md) 来用markdown文件来维护和预览你的网页的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+无论何时你提交到这个仓库, github就会运行[Jekyll](https://jekyllrb.com/)来重建网页, 根据你的markdown内容.
 
 ### Markdown
 
